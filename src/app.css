@@ -1,0 +1,23 @@
+/*!
+ * Smoker Controller CSS
+ * v1.0.0
+ */
+
+.h1 {
+    font-family: "Arial";
+    font-size: 30px;
+}
+
+.td {
+    font-family: "Arial";
+    font-size: 35px;
+	text-align: center;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+.toolbar {
+    background-color: #212121;
+}
